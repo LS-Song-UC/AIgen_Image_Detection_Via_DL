@@ -207,6 +207,7 @@ marimo/_lsp/
 __marimo__/
 
 Dataset/
+CLS_Dataset/
 DS_Store
 *.pt
 *.safetensors
